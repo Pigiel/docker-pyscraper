@@ -1,2 +1,2 @@
-# docker-pyscraper
+# PyScraper
  Repository for Python Web Scraper Docker image
